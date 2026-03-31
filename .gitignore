@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 Lifetime_Efficiency/新增資料夾/
+=======
+Lifetime_Efficiency_0327/新增資料夾/
+
+Scan_Spectrum_0114/Scan_RF/
+Scan_Spectrum_0114/Scan_U2/Scan U2 Electron Lablog/
+Scan_Spectrum_0114/Scan_U2/Data
+Scan_Spectrum_0114/Scan_U2/Gaussian_Fitting
+>>>>>>> 238d831 (fix: apply .gitignore correctly)
